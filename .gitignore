@@ -8,3 +8,7 @@ node_modules/
 /playwright/.cache/
 storageState.json
 .auth/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
